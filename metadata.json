@@ -1,0 +1,6 @@
+{
+  "name": "캠퍼스 한 줄 의뢰 (Campus QuickTask)",
+  "description": "1만 원짜리 일도 5분 만에 맡기고 믿고 해결하는 대학생 전용 한 줄 의뢰 & 마이크로 심부름 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
